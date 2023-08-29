@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/cargiocom/cargiocom/tree/main/img/banner.png" width="100%" alt="Cargio banner">
+<img src="https://github.com/cargiocom/cargiocom/tree/main/img/logo.png" width="100%" alt="Cargio banner">
 </br>
 
 
