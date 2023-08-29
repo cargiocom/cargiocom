@@ -10,4 +10,4 @@
 [![Discord](https://img.shields.io/badge/join-Cargio-ae73fa?style=for-the-badge&logo=discord)](https://discord.com/invite/pQmEwkyWJ9)
 </div>
 </br>
-![Info](/main-info.svg)
+![Metrics](/main-info.svg)
