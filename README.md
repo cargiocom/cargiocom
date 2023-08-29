@@ -5,8 +5,9 @@
 
 [![Twitter](https://img.shields.io/badge/follow-%40Cargio-ae73fa?logo=twitter&style=for-the-badge)](https://twitter.com/CargioNews)
 [![Telegram](https://img.shields.io/badge/join-Cargio%20News-ae73fa?style=for-the-badge&logo=telegram)](https://t.me/cargio_news)
-[![Reddit](https://img.shields.io/badge/follow-Cargio%20Ecosystem-ae73fa?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/DaSush)
+[![Reddit](https://img.shields.io/badge/follow-Reddit-ae73fa?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/DaSush)
 [![Youtube](https://img.shields.io/badge/subscribe-Cargio%20News-ae73fa?style=for-the-badge&logo=reddit)](https://www.youtube.com/channel/UCCcDolTDI_5oFvUPTDF2v8g)
 [![Discord](https://img.shields.io/badge/join-Cargio-ae73fa?style=for-the-badge&logo=discord)](https://discord.com/invite/pQmEwkyWJ9)
 </div>
 </br>
+![Info](/main-info.svg)
