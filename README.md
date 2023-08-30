@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=AC48F7&center=true&width=435&lines=Trading+Terminal" alt="Typing SVG"/>
 </div>
 <p><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=500&size=30&pause=500&color=AC48F7&center=true&width=435&lines=Automated+Trading" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=AC48F7&center=true&width=435&lines=Dual+Investment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=AC48F7&center=true&width=435&lines=Dual+Investment" align="right" alt="Typing SVG" />
 </p>
 
 </br>
