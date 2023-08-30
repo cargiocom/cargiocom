@@ -3,7 +3,7 @@
 <img  src="https://github.com/cargiocom/cargiocom/blob/f9cba8185870e99c2a43c7eae44ef83c42a48334/img/banner.png" width="100%" alt="Cargio banner">
 </br>
 </div>
-<div align="center" style="background: white;">
+<div align="center" style="background-color: red">
   
 [![Twitter](https://img.shields.io/badge/follow-%40Cargio-ae73fa?logo=twitter&style=for-the-badge)](https://twitter.com/CargioNews)
 [![Telegram](https://img.shields.io/badge/join-Cargio%20News-ae73fa?style=for-the-badge&logo=telegram)](https://t.me/cargio_news)
