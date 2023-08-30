@@ -14,7 +14,7 @@
 <p><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=500&size=30&pause=500&color=AC48F7&center=true&width=435&lines=Automated+Trading" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=AC48F7&center=true&width=435&lines=Dual+Investment" align="right" alt="Typing SVG" />
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=AC48F7&center=true&width=435&lines=Web+3.0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=7000&pause=500&color=AC48F7&center=true&width=435&lines=Web+3.0" alt="Typing SVG" />
 </div>
 </br>
 
