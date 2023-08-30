@@ -11,7 +11,7 @@
 [![Youtube](https://img.shields.io/badge/subscribe-Cargio%20News-ae73fa?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCCcDolTDI_5oFvUPTDF2v8g)
 [![Discord](https://img.shields.io/badge/join-Cargio-ae73fa?style=for-the-badge&logo=discord)](https://discord.com/invite/pQmEwkyWJ9)
 </br>
-<img src="main-info.svg" align="center" alt="main-info" width="100%"/>
+<img src="main-info.svg" align="center" alt="main-info" />
 </br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6400&pause=600&color=C27CF7&center=true&width=435&lines=Trading+Terminal" alt="Typing SVG"/>
 <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=500&size=20&duration=5000&pause=400&color=AC48F7&center=true&width=435&lines=Automated+Trading" align="left" alt="Typing SVG" />
