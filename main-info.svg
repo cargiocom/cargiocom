@@ -6,7 +6,8 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                 <h1 class="field">
-                    <img src="https://github.com/cargiocom/cargiocom/blob/11a4055138b9ae05e87f4cc9efdb6abb6e0ffdbc/img/logo.png"  />
+                    ![Image alt](https://github.com/cargiocom/cargiocom/blob/11a4055138b9ae05e87f4cc9efdb6abb6e0ffdbc/img/logo.png)
+                    <img src="https://github.com/cargiocom/cargiocom/blob/11a4055138b9ae05e87f4cc9efdb6abb6e0ffdbc/img/logo.png"  width="20" height="20"/>
                     <span>Cargio - Smart digital currency platform</span>
                 </h1>
                 <div >
