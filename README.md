@@ -20,4 +20,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5150&pause=430&color=ED88F7&center=true&width=435&lines=Liquidity+Farming" align="right" alt="Typing SVG" />
 </div>
 </br>
+<img src="https://github.com/cargiocom/cargiocom/blob/d8f5be689e508b5b26163e5064a5997993239253/main-info.svg">
 
