@@ -10,9 +10,9 @@
 [![Discord](https://img.shields.io/badge/join-Cargio-ae73fa?style=for-the-badge&logo=discord)](https://discord.com/invite/pQmEwkyWJ9)
 </br>
 </br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=600&color=AC48F7&center=true&width=435&lines=Trading+Terminal" alt="Typing SVG"/>
-<p><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=500&size=20&pause=400&color=AC48F7&center=true&width=435&lines=Automated+Trading" align="left" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=300&color=AC48F7&center=true&width=435&lines=Dual+Investment" align="right" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6400&pause=600&color=AC48F7&center=true&width=435&lines=Trading+Terminal" alt="Typing SVG"/>
+<p><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=500&size=20&duration=5000&pause=400&color=AC48F7&center=true&width=435&lines=Automated+Trading" align="left" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=300&color=AC48F7&center=true&width=435&lines=Dual+Investment" align="right" alt="Typing SVG" />
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=7000&pause=200&color=AC48F7&center=true&width=435&lines=Web+3.0" alt="Typing SVG" />
 </div>
