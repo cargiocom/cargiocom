@@ -10,4 +10,4 @@
 [![Discord](https://img.shields.io/badge/join-Cargio-ae73fa?style=for-the-badge&logo=discord)](https://discord.com/invite/pQmEwkyWJ9)
 </div>
 </br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=B172F7&center=true&width=435&lines=Trading+terminal;Automated+trading;Dual+investment;Web+3.0;Currency+options;Liquidity+farming" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" display= "block";  text-align="center";><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=B172F7&center=true&width=435&lines=Trading+terminal;Automated+trading;Dual+investment;Web+3.0;Currency+options;Liquidity+farming" alt="Typing SVG" /></a>
