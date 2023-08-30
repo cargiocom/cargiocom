@@ -20,7 +20,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4300&pause=620&color=AC48F7&center=true&width=435&lines=Currency+Options" align="left" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5150&pause=430&color=ED88F7&center=true&width=435&lines=Liquidity+Farming" align="right" alt="Typing SVG" />
 </div>
-<div width="800"><img src="main-info.svg" align="center" alt="main-info"/></div>
+<div><img src="main-info.svg" alt="main-info"/></div>
 </br>
 
 
