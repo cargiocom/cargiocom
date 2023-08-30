@@ -8,6 +8,8 @@
 [![Reddit](https://img.shields.io/badge/follow-Reddit-ae73fa?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/DaSush)
 [![Youtube](https://img.shields.io/badge/subscribe-Cargio%20News-ae73fa?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCCcDolTDI_5oFvUPTDF2v8g)
 [![Discord](https://img.shields.io/badge/join-Cargio-ae73fa?style=for-the-badge&logo=discord)](https://discord.com/invite/pQmEwkyWJ9)
+</br>
+<a href="https://git.io/typing-svg";><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=B172F7&center=true&width=435&lines=Trading+terminal;Automated+trading;Dual+investment;Web+3.0;Currency+options;Liquidity+farming" alt="Typing SVG" /></a>
 </div>
 </br>
-<a href="https://git.io/typing-svg" display= "block";  text-align="center";><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=B172F7&center=true&width=435&lines=Trading+terminal;Automated+trading;Dual+investment;Web+3.0;Currency+options;Liquidity+farming" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg";><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=B172F7&center=true&width=435&lines=Trading+terminal;Automated+trading;Dual+investment;Web+3.0;Currency+options;Liquidity+farming" alt="Typing SVG" /></a>
