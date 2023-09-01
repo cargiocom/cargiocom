@@ -32,4 +32,12 @@ During this period, we were also involved in financial and technical consulting 
 
 <p>This period of our history epitomizes our commitment to continuous growth and adaptation to the changing industrial panorama. Originally started as an IT consulting company, we have been able to expand our competencies and make a meaningful contribution to the development of Blockchain technologies, becoming an important player in the innovation field.</p>
 
+<p>One of Cargio's key features is an extensive portfolio of assets managed using advanced investment strategies and technologies. The company specializes in long-term and short-term asset management, offering clients a variety of solutions to achieve their financial goals.</p>
+
+<p>Cargio is also known for its leading position in the field of efficient investment with a view to resilience to social and environmental issues. The concept of sustainable investing and socially responsible investing (ESG investing) is one of the company's central strategies. It enables clients to invest in line with their values and to take sustainability and environmental impact factors into account.</p>
+
+<p>In the area of innovation, Cargio is actively developing and applying technological solutions, such as data analytics and artificial intelligence, to better analyze markets and make informed investment decisions.</p>
+
+<p>As a venture capital investor, Cargio actively supports startups and innovative companies, helping them realize groundbreaking ideas and concepts.</p>
+
 
