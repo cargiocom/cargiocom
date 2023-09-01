@@ -1,6 +1,6 @@
 <div align="center">
+<div><img src="https://github.com/cargiocom/cargiocom/blob/629e9320c972df1d0ffe0379d5e7dc36ce8ce93d/img/banner2.jpg" alt="banner2"/></div>
 
-<img  src="https://github.com/cargiocom/cargiocom/blob/f9cba8185870e99c2a43c7eae44ef83c42a48334/img/banner.png" width="100%" alt="Cargio banner">
 </br>
 </br>
 </div>
@@ -21,7 +21,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4300&pause=620&color=AC48F7&center=true&width=435&lines=Currency+Options" align="left" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5150&pause=430&color=ED88F7&center=true&width=435&lines=Liquidity+Farming" align="right" alt="Typing SVG" />
 <div><img src="main-info.svg" alt="main-info"/>
-<div><img src="https://github.com/cargiocom/cargiocom/blob/629e9320c972df1d0ffe0379d5e7dc36ce8ce93d/img/banner2.jpg" alt="banner2"/></div>
+<img  src="https://github.com/cargiocom/cargiocom/blob/f9cba8185870e99c2a43c7eae44ef83c42a48334/img/banner.png" width="100%" alt="Cargio banner">
 </br>
 
 
