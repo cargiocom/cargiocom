@@ -5,7 +5,6 @@
 </br>
 </div>
 <div align="center">
-  
 [![Twitter](https://img.shields.io/badge/follow-%40Cargio-ae73fa?logo=twitter&style=for-the-badge)](https://twitter.com/CargioNews)
 [![Telegram](https://img.shields.io/badge/join-Cargio%20News-ae73fa?style=for-the-badge&logo=telegram)](https://t.me/cargio_news)
 [![Reddit](https://img.shields.io/badge/follow-Reddit-ae73fa?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/DaSush)
