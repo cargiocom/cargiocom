@@ -21,7 +21,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=7000&pause=200&color=C27CF7&center=true&width=435&lines=Web+3.0" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4300&pause=620&color=AC48F7&center=true&width=435&lines=Currency+Options" align="left" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5150&pause=430&color=ED88F7&center=true&width=435&lines=Liquidity+Farming" align="right" alt="Typing SVG" />
-<div><img src="main-info.svg" alt="main-info"/>
+<img src="main-info.svg" alt="main-info"/>
 <img  src="https://github.com/cargiocom/cargiocom/blob/f9cba8185870e99c2a43c7eae44ef83c42a48334/img/banner.png" width="100%" alt="Cargio banner">
 </br>
 
