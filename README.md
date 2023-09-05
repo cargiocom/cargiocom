@@ -1,5 +1,5 @@
 <div align="center">
-<div><img src="https://github.com/cargiocom/cargiocom/blob/629e9320c972df1d0ffe0379d5e7dc36ce8ce93d/img/banner2.jpg" alt="banner2"/></div>
+<img src="https://github.com/cargiocom/cargiocom/blob/629e9320c972df1d0ffe0379d5e7dc36ce8ce93d/img/banner2.jpg" alt="banner2"/>
 
 </br>
 </br>
