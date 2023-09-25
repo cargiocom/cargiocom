@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/join-Cargio%20News-ae73fa?style=for-the-badge&logo=telegram)](https://t.me/cargio_news)
 [![Reddit](https://img.shields.io/badge/follow-Reddit-ae73fa?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/DaSush)
 [![Youtube](https://img.shields.io/badge/subscribe-Cargio%20News-ae73fa?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCCcDolTDI_5oFvUPTDF2v8g)
-[![Discord](https://img.shields.io/badge/join-Cargio-ae73fa?style=for-the-badge&logo=discord)](https://discord.com/invite/pQmEwkyWJ9)
+[![Discord](https://img.shields.io/badge/join-Cargio-ae73fa?style=for-the-badge&logo=discord)](https://discord.com/invite/tBbJ7nHvXT)
 </br>
 </div>
 </br>
