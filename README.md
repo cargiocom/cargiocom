@@ -23,7 +23,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4300&pause=620&color=AC48F7&center=true&width=435&lines=Currency+Options" align="left" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5150&pause=430&color=ED88F7&center=true&width=435&lines=Liquidity+Farming" align="right" alt="Typing SVG" />
 </div>
-<div align="center"><img src="https://github.com/cargiocom/cargiocom/blob/e3692c66fd75b9398e51a379cc6db1f36cb38815/main-info.svg" alt="main-info"/></div>
+<div align="center"><img src="https://github.com/cargiocom/cargiocom/blob/e3692c66fd75b9398e51a379cc6db1f36cb38815/main-info.svg" alt="main-info"/>g</div>
 <img  src="https://github.com/cargiocom/cargiocom/blob/205f2d9c8478b6dde8be136bfd63ec816d2ff801/img/main_banner.png" width="100%" alt="Cargio banner">
 </br>
 
